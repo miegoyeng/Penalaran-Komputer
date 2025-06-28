@@ -1,0 +1,22 @@
+[
+  {
+    "query": "putusan pn surabaya\n874/pid",
+    "ground_truth": 28
+  },
+  {
+    "query": "putusan pn surabaya\n1780/pid",
+    "ground_truth": 40
+  },
+  {
+    "query": "putusan pn surabaya\n945/pid",
+    "ground_truth": 27
+  },
+  {
+    "query": "putusan pn surabaya\n507/pid",
+    "ground_truth": 44
+  },
+  {
+    "query": "putusan pn surabaya\n1102/pid",
+    "ground_truth": 25
+  }
+]
