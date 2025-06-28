@@ -6,7 +6,6 @@
 # 🏛️ Case-Based Legal Reasoning
 
 Implementasi *case-based reasoning* untuk putusan Mahkamah Agung Republik Indonesia.
-
 Pengadilan Negeri Surabaya Putusan 2022 Tentang Pencurian
 
 ---
